@@ -3,6 +3,9 @@ package ejerciciosPruebas;
 public class Ejercicio2 {
     public static float funcionEj3(float cant)
     {
+
+	System.out.println("I'm climbin' to the top of the planet");
+	
         float costo1=0,numcaj,desc,costoTot=0;
 
         costo1=cant*125;
