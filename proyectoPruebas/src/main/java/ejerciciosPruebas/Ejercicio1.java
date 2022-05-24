@@ -3,6 +3,7 @@ package ejerciciosPruebas;
 public class Ejercicio1 {
     public static int mayorDeCuatroEj2(int a, int b, int c, int d)
     {
+    	System.out.println("I'm climbin' to the top of the planet");
         if(a>b)
             if(a>c)
                 if(a>d)
