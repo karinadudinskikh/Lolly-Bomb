@@ -6,6 +6,9 @@ public class Ejercicio4 {
     public static int aciertaNumeros(int intentosMax){
         final int NUMERO_SECRE=4;
         int num=0,intentos=0, numUsu;
+        
+        System.out.println("Go hypnodancer");
+        
         do{
             System.out.println("Dame un número: ");
             num=Entrada.entero();
